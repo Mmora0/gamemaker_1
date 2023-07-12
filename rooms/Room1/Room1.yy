@@ -8,11 +8,21 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_1207FA36","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_2088F779","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_2DBA0D82","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_3C3A5488","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_7D839F85","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_18229BCF","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1207FA36","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"jugadorrr","path":"objects/jugadorrr/jugadorrr.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":128.0,"y":576.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1207FA36","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"jugadorrr","path":"objects/jugadorrr/jugadorrr.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":896.0,"y":544.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2088F779","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"colision","path":"objects/colision/colision.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":12.0,"x":1344.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2DBA0D82","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"colision","path":"objects/colision/colision.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":12.0,"x":-32.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3C3A5488","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"colision","path":"objects/colision/colision.yy",},"properties":[],"rotation":90.0,"scaleX":1.0,"scaleY":21.5,"x":0.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D839F85","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"colision","path":"objects/colision/colision.yy",},"properties":[],"rotation":90.0,"scaleX":1.0,"scaleY":22.5,"x":-31.99996,"y":800.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_18229BCF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"carritoo","path":"objects/carritoo/carritoo.yy",},"properties":[],"rotation":0.0,"scaleX":5.5,"scaleY":4.5,"x":704.0,"y":512.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"escenario","path":"sprites/escenario/escenario.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
