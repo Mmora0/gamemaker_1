@@ -53,6 +53,7 @@
     {"id":{"name":"escenario","path":"sprites/escenario/escenario.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"carrito","path":"sprites/carrito/carrito.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"player_parao","path":"sprites/player_parao/player_parao.yy",},},
     {"id":{"name":"Tp_esc_3_1","path":"objects/Tp_esc_3_1/Tp_esc_3_1.yy",},},
     {"id":{"name":"Escenario3","path":"sprites/Escenario3/Escenario3.yy",},},

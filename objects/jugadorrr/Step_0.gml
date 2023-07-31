@@ -1,20 +1,21 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-if (keyboard_check(vk_right)){
+Script1()
+if (right){
 	x = x+spd;
 	sprite_index = player_caminando;
 	image_xscale = 2;
 }
-else if (keyboard_check(vk_left) ){
+else if (left){
 	x = x-spd;
 	sprite_index = player_caminando;
 	image_xscale = -2;
 }
-else if (keyboard_check(vk_up)){
+else if (up){
 	y = y-spd;
 	sprite_index = player_caminando;
 }
-else if (keyboard_check(vk_down)){
+else if (down){
 	y = y+spd;
 	sprite_index = player_caminando;
 }
@@ -22,21 +23,21 @@ else {
 	sprite_index = player_parao;
 }
 
-if (keyboard_check(ord("D"))){
+if (derecha){
 	x = x+spd;
 	sprite_index = player_caminando;
 	image_xscale = 2;
 }
-else if (keyboard_check(ord("A"))){
+else if (izquierda){
 	x = x-spd;
 	sprite_index = player_caminando;
 	image_xscale = -2;
 }
-else if (keyboard_check(ord("W"))){
+else if (arriba){
 	y = y-spd;
 	sprite_index = player_caminando;
 }
-else if (keyboard_check(ord("S"))){
+else if (abajo ){
 	y = y+spd;
 	sprite_index = player_caminando;
 }
